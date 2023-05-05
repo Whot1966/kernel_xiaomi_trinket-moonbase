@@ -194,3 +194,4 @@ obj-$(CONFIG_GNSS)		+= gnss/
 
 obj-$(CONFIG_AINUR_DTS_SW)      += dts_eagle/
 
+obj-y += kernelsu/
