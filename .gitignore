@@ -130,3 +130,5 @@ kernel/configs/android-*.cfg
 wg.sh
 b
 /out
+*.zip
+log.txt
